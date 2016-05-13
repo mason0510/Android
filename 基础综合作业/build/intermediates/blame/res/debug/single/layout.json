@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\layout\\note_item.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\layout\\layout_note_list.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\layout\\layout_note_list.xml"
+    }
+]

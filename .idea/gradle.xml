@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Android studio/gradle/gradle-2.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a_day06" />
+            <option value="$PROJECT_DIR$/a_使用http协议访问网络" />
+            <option value="$PROJECT_DIR$/a_内容发布者" />
+            <option value="$PROJECT_DIR$/a_内容提供者" />
+            <option value="$PROJECT_DIR$/a_内容观察者" />
+            <option value="$PROJECT_DIR$/a_服务" />
+            <option value="$PROJECT_DIR$/a_网页浏览器" />
+            <option value="$PROJECT_DIR$/a_解析json" />
+            <option value="$PROJECT_DIR$/a_解析xml" />
+            <option value="$PROJECT_DIR$/a_读取系统的短信" />
+            <option value="$PROJECT_DIR$/aaa" />
+            <option value="$PROJECT_DIR$/android_多媒体技术" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/b_异步处理机制" />
+            <option value="$PROJECT_DIR$/b_服务" />
+            <option value="$PROJECT_DIR$/bbb" />
+            <option value="$PROJECT_DIR$/c_使用通知" />
+            <option value="$PROJECT_DIR$/c_发送短信" />
+            <option value="$PROJECT_DIR$/c_多媒体" />
+            <option value="$PROJECT_DIR$/c_接受短信" />
+            <option value="$PROJECT_DIR$/c_服务" />
+            <option value="$PROJECT_DIR$/c_调用拍照功能" />
+            <option value="$PROJECT_DIR$/ccc_内容使用者" />
+            <option value="$PROJECT_DIR$/ccc_自定义内容提供者" />
+            <option value="$PROJECT_DIR$/d_后台定时任务" />
+            <option value="$PROJECT_DIR$/d_后台定时任务2" />
+            <option value="$PROJECT_DIR$/databasetest" />
+            <option value="$PROJECT_DIR$/e_前台服务" />
+            <option value="$PROJECT_DIR$/example" />
+            <option value="$PROJECT_DIR$/hhh" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/providertest" />
+            <option value="$PROJECT_DIR$/wangyinews" />
+            <option value="$PROJECT_DIR$/xutil_library" />
+            <option value="$PROJECT_DIR$/基础综合作业" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a_day06" />
+            <option value="$PROJECT_DIR$/a_使用http协议访问网络" />
+            <option value="$PROJECT_DIR$/a_内容发布者" />
+            <option value="$PROJECT_DIR$/a_内容提供者" />
+            <option value="$PROJECT_DIR$/a_内容观察者" />
+            <option value="$PROJECT_DIR$/a_服务" />
+            <option value="$PROJECT_DIR$/a_网页浏览器" />
+            <option value="$PROJECT_DIR$/a_解析json" />
+            <option value="$PROJECT_DIR$/a_解析xml" />
+            <option value="$PROJECT_DIR$/a_读取系统的短信" />
+            <option value="$PROJECT_DIR$/aaa" />
+            <option value="$PROJECT_DIR$/android_多媒体技术" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/b_异步处理机制" />
+            <option value="$PROJECT_DIR$/b_服务" />
+            <option value="$PROJECT_DIR$/bbb" />
+            <option value="$PROJECT_DIR$/c_使用通知" />
+            <option value="$PROJECT_DIR$/c_发送短信" />
+            <option value="$PROJECT_DIR$/c_多媒体" />
+            <option value="$PROJECT_DIR$/c_接受短信" />
+            <option value="$PROJECT_DIR$/c_服务" />
+            <option value="$PROJECT_DIR$/c_调用拍照功能" />
+            <option value="$PROJECT_DIR$/ccc_内容使用者" />
+            <option value="$PROJECT_DIR$/ccc_自定义内容提供者" />
+            <option value="$PROJECT_DIR$/d_后台定时任务" />
+            <option value="$PROJECT_DIR$/d_后台定时任务2" />
+            <option value="$PROJECT_DIR$/databasetest" />
+            <option value="$PROJECT_DIR$/e_前台服务" />
+            <option value="$PROJECT_DIR$/example" />
+            <option value="$PROJECT_DIR$/hhh" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/providertest" />
+            <option value="$PROJECT_DIR$/wangyinews" />
+            <option value="$PROJECT_DIR$/xutil_library" />
+            <option value="$PROJECT_DIR$/基础综合作业" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

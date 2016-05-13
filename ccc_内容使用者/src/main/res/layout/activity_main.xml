@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.michael.ccc_.MainActivity">
+
+    <Button
+        android:id="@+id/btn1"
+        android:text="增加"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />    <Button
+        android:id="@+id/btn2"
+        android:text="查询"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />    <Button
+        android:id="@+id/btn3"
+        android:text="更新"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />    <Button
+        android:id="@+id/btn4"
+        android:text="删除"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+</LinearLayout>

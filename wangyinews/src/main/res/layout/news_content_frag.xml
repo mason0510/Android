@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+<LinearLayout
+    android:id="@+id/visibility_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="invisible"
+    >
+    <TextView
+        android:id="@+id/news_title"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:text="news_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:src="@drawable/span"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:layout_weight="1"
+        />
+    <TextView
+        android:id="@+id/news_content"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+    <ImageView
+        android:src="@drawable/span_ver"
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:layout_alignParentLeft="true"
+        />
+</RelativeLayout>

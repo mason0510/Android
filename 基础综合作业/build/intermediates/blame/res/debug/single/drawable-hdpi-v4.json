@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\bg_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\license_check.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\license_check.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\license_uncheck.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\license_uncheck.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_register.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\bt_register.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_register_dark.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\bt_register_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_login.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\bt_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_login_dark.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\bt_login_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_mood_very_happy.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\btn_mood_very_happy.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\Myapp\\基础综合作业\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    }
+]

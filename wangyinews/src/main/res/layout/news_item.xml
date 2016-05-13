@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--右侧有的话是这个东东-->
+<TextView
+    android:id="@+id/news_title"
+    android:textSize="18sp"
+    android:singleLine="true"
+    android:ellipsize="end"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:text="helloworl1111111111111111d11111111111111111111111111111111"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+</LinearLayout>

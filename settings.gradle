@@ -1,0 +1,5 @@
+include ':app', ':a_day06', ':a_内容观察者', ':a_内容发布者', ':aaa', ':a_内容提供者', ':providertest', ':databasetest', ':a_读取系统的短信', ':bbb', ':hhh', ':ccc_自定义内容提供者', ':ccc_内容使用者', ':android_多媒体技术', ':b_服务', ':b_服务', ':b_异步处理机制', ':asynctask', ':c_服务', ':c_多媒体', ':c_使用通知', ':c_接受短信', ':c_发送短信', ':c_调用拍照功能', ':a_服务', ':d_后台定时任务', ':d_后台定时任务2', ':e_前台服务', ':myapplication', ':a_网页浏览器', ':a_解析xml', ':a_使用http协议访问网络', ':a_解析json', ':wangyinews', ':example', ':helloworld', ':helloworld'
+include ':基础综合作业'
+include ':xutil_library'
+include ':library'
+include ':sample'

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myapp.iml" filepath="$PROJECT_DIR$/Myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_day06/a_day06.iml" filepath="$PROJECT_DIR$/a_day06/a_day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_使用http协议访问网络/a_使用http协议访问网络.iml" filepath="$PROJECT_DIR$/a_使用http协议访问网络/a_使用http协议访问网络.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_内容发布者/a_内容发布者.iml" filepath="$PROJECT_DIR$/a_内容发布者/a_内容发布者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_内容提供者/a_内容提供者.iml" filepath="$PROJECT_DIR$/a_内容提供者/a_内容提供者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_内容观察者/a_内容观察者.iml" filepath="$PROJECT_DIR$/a_内容观察者/a_内容观察者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_服务/a_服务.iml" filepath="$PROJECT_DIR$/a_服务/a_服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_网页浏览器/a_网页浏览器.iml" filepath="$PROJECT_DIR$/a_网页浏览器/a_网页浏览器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_解析json/a_解析json.iml" filepath="$PROJECT_DIR$/a_解析json/a_解析json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_解析xml/a_解析xml.iml" filepath="$PROJECT_DIR$/a_解析xml/a_解析xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_读取系统的短信/a_读取系统的短信.iml" filepath="$PROJECT_DIR$/a_读取系统的短信/a_读取系统的短信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaa/aaa.iml" filepath="$PROJECT_DIR$/aaa/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_多媒体技术/android_多媒体技术.iml" filepath="$PROJECT_DIR$/android_多媒体技术/android_多媒体技术.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_异步处理机制/b_异步处理机制.iml" filepath="$PROJECT_DIR$/b_异步处理机制/b_异步处理机制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_服务/b_服务.iml" filepath="$PROJECT_DIR$/b_服务/b_服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbb/bbb.iml" filepath="$PROJECT_DIR$/bbb/bbb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_使用通知/c_使用通知.iml" filepath="$PROJECT_DIR$/c_使用通知/c_使用通知.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_发送短信/c_发送短信.iml" filepath="$PROJECT_DIR$/c_发送短信/c_发送短信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_多媒体/c_多媒体.iml" filepath="$PROJECT_DIR$/c_多媒体/c_多媒体.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_接受短信/c_接受短信.iml" filepath="$PROJECT_DIR$/c_接受短信/c_接受短信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_服务/c_服务.iml" filepath="$PROJECT_DIR$/c_服务/c_服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_调用拍照功能/c_调用拍照功能.iml" filepath="$PROJECT_DIR$/c_调用拍照功能/c_调用拍照功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccc_内容使用者/ccc_内容使用者.iml" filepath="$PROJECT_DIR$/ccc_内容使用者/ccc_内容使用者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccc_自定义内容提供者/ccc_自定义内容提供者.iml" filepath="$PROJECT_DIR$/ccc_自定义内容提供者/ccc_自定义内容提供者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_后台定时任务/d_后台定时任务.iml" filepath="$PROJECT_DIR$/d_后台定时任务/d_后台定时任务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_后台定时任务2/d_后台定时任务2.iml" filepath="$PROJECT_DIR$/d_后台定时任务2/d_后台定时任务2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/databasetest/databasetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_前台服务/e_前台服务.iml" filepath="$PROJECT_DIR$/e_前台服务/e_前台服务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hhh/hhh.iml" filepath="$PROJECT_DIR$/hhh/hhh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providertest/providertest.iml" filepath="$PROJECT_DIR$/providertest/providertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyinews/wangyinews.iml" filepath="$PROJECT_DIR$/wangyinews/wangyinews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutil_library/xutil_library.iml" filepath="$PROJECT_DIR$/xutil_library/xutil_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基础综合作业/基础综合作业.iml" filepath="$PROJECT_DIR$/基础综合作业/基础综合作业.iml" />
+    </modules>
+  </component>
+</project>
